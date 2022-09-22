@@ -1,0 +1,55 @@
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\Sales Management.exe.config
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\Sales Management.exe
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\Sales Management.pdb
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\obj\Debug\Sales Management.csprojAssemblyReference.cache
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\obj\Debug\Sales_Management.Form1.resources
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\obj\Debug\Sales_Management.Properties.Resources.resources
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\obj\Debug\Sales Management.csproj.GenerateResource.cache
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\obj\Debug\Sales Management.exe.licenses
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\obj\Debug\Sales Management.csproj.CoreCompileInputs.cache
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\obj\Debug\Sales Management.csproj.CopyComplete
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\obj\Debug\Sales Management.exe
+C:\Users\intelligent Tech\Desktop\Sales Management\Sales Management\obj\Debug\Sales Management.pdb
